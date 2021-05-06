@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juandiego07" target="blank"><img align="center" src="https://img.icons8.com/fluent/144/000000/twitter.png" alt="juandiego07" height="30" width="40" /></a>
-<a href="https://discord.gg/juandiego07#8561" target="blank"><img align="center" src=https://img.icons8.com/fluent/144/000000/discord-logo.png" alt="juandiego07#8561" height="30" width="40" /></a>
+<a href="https://discord.gg/juandiego07#8561" target="blank"><img align="center" src="https://img.icons8.com/fluent/144/000000/discord-logo.png" alt="juandiego07#8561" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
