@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Systems Engineer graduated from the Universidad de Oriente (UDONE), with ten years of expiration in IT, passionate about web development</h3>
 
 - 🔭 I’m currently working on [ePayco](https://epayco.co/)
 
