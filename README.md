@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juandiego07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="juandiego07" height="30" width="40" /></a>
+<a href="https://twitter.com/juandiego07" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/github.png" alt="juandiego07" height="30" width="40" /></a>
 <a href="https://discord.gg/juandiego07#8561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="juandiego07#8561" height="30" width="40" /></a>
 </p>
 
